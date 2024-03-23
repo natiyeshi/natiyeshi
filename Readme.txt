@@ -1,6 +1,3 @@
-Thanks for downloading this template!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<h2>Hey there</h2>
+<h1>I am Natnal Yeshiwas</h1>
